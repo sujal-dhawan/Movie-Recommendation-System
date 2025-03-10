@@ -50,10 +50,12 @@ This project is a **movie recommendation system** built using Python and the **M
 ## Screenshots 📸
 
 ### Rating Distribution
-![Rating Distribution](images/rating_distribution.png)
+![movie-ratings](https://github.com/user-attachments/assets/fd6e5e0b-35ad-40e6-8edf-8f670382165d)
+
 
 ### Genre Popularity
-![Genre Popularity](images/genre_popularity.png)
+
+![genre-popularity](https://github.com/user-attachments/assets/2cb6c2ad-60e8-411c-ae7f-835854c5ebaa)
 
 ---
 
